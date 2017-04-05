@@ -1,0 +1,28 @@
+/lib64/ld-linux-x86-64.so.2
+libc.so.6
+__libc_start_main
+__gmon_start__
+GLIBC_2.2.5
+UH-8
+UH-8
+=X	 
+[]A\A]A^A_
+Juan Luis
+Herrero Estrada
+Computer Science
+Mathematics
+;*3$"
+/lib64/ld-linux-x86-64.so.2
+libc.so.6
+__libc_start_main
+__gmon_start__
+GLIBC_2.2.5
+UH-8
+UH-8
+=X	 
+[]A\A]A^A_
+Juan Luis
+Herrero Estrada
+Computer Science
+Mathematics
+;*3$"
